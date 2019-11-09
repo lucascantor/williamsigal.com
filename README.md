@@ -1,6 +1,6 @@
 # williamsigal.com
 
-Version history of [williamsigal.com](https://williamsigal.com) on GitHub Pages
+Version history of [williamsigal.com](https://williamsigal.com) - hosted on AWS S3 and CloudFront
 
 ## Contributing workflow
 
